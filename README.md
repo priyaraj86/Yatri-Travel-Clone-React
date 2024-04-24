@@ -182,8 +182,6 @@ phase-2 : ( 30 April 2021 - 10 May 2021 )
 
 The following dependencies can be found in [package.json](https://github.com/shsarv/TravelYaari-react/blob/master/package.json):
 
-### Contributors <img src="https://www.flaticon.com/svg/static/icons/svg/1534/1534938.svg" width="24px">
-
       
 
 
